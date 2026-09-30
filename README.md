@@ -1,108 +1,146 @@
+<div align="center">
+
 # 👋 Hi, I'm Kripikindomart
 
-### 💻 Full Stack Developer | Web Developer | Technology Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Developer;Laravel+%26+PHP+Developer;Building+Digital+Solutions;Automation+%26+API+Integration;Exploring+AI+%26+Automation" alt="Typing SVG" />
 
-> Building applications, automations, and digital solutions.
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Docker+%7C+Node.js+%7C+MySQL;Building+Digital+Solutions;Always+Learning+%26+Building+%F0%9F%9A%80" />
-</p>
+**Building applications, automations, information systems, and digital solutions.**
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Developing web-based applications
-* 🧩 Building information systems
-* ⚙️ Automation & API integration
-* 🐳 Docker & self-hosted applications
-* 🗄️ Database & backend development
-* 🤖 Exploring AI & automation
+- 💻 Full Stack & Web Development
+- 🧩 Information System Development
+- ⚙️ Automation & API Integration
+- 🐳 Docker & Self-Hosted Applications
+- 🗄️ Backend & Database Development
+- 🤖 AI & Workflow Automation
+- 📊 Data Management & Digital Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,nodejs,mysql,postgresql,docker,git,github,linux,html,css,bootstrap" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,mysql,docker,git,github,linux,vscode&perline=10" alt="Tech Stack">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kripikindomart&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripikindomart&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kripikindomart&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripikindomart&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages">
 
-## 🐍 My Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kripikindomart/kripikindomart/output/github-contribution-grid-snake.svg" />
-</p>
+</div>
 
 ---
 
-## 🔥 Contribution Activity
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kripikindomart&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kripikindomart&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kripikindomart&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity">
+
+</div>
 
 ---
 
 ## 💡 What I Build
 
-```text
-🌐 Web Applications
-🎓 Academic Information Systems
-🏛️ Government Digital Systems
-🤖 Automation & API Integration
-🐳 Docker Infrastructure
-📊 Management & Data Systems
-```
-
----
-
-## 📈 1,167 Contributions in the Last Year
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kripikindomart&theme=tokyo-night&hide_border=true" />
-
-</p>
+- 🌐 Web Applications
+- 🎓 Academic Information Systems
+- 🏛️ Government Digital Systems
+- 🤖 Automation & API Integration
+- 🐳 Docker Infrastructure
+- 📊 Management & Data Systems
+- 🔗 REST API & System Integration
+- 🗄️ Database Applications
+- ⚙️ Business Process Automation
 
 ---
 
 ## ⚡ Current Focus
 
-```text
-Laravel       ████████████████████
-PHP           ████████████████████
-JavaScript    ███████████████░░░░░
-Docker        ███████████████░░░░░
-Node.js       █████████████░░░░░░░
-AI / Automation ███████████░░░░░░░░
-```
+| Technology | Focus |
+|---|---|
+| Laravel | ████████████████████ |
+| PHP | ████████████████████ |
+| JavaScript | ███████████████░░░░░ |
+| Docker | ███████████████░░░░░ |
+| Node.js | █████████████░░░░░░░ |
+| AI / Automation | ███████████░░░░░░░░░ |
+
+---
+
+## 🎯 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- ⚙️ Workflow Automation
+- 🔗 API Integration
+- 🐳 Docker Infrastructure
+- ☁️ Self-Hosted Applications
+- 📊 Data Management Systems
+
+---
+
+## 🧑‍💻 Developer Profile
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kripikindomart&style=for-the-badge&color=blue" alt="Profile Views">
+<img src="https://img.shields.io/github/followers/Kripikindomart?style=for-the-badge&logo=github" alt="GitHub Followers">
+<img src="https://img.shields.io/github/stars/Kripikindomart?style=for-the-badge&logo=github" alt="GitHub Stars">
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/kripikindomart">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Kripikindomart">
+  <img src="https://img.shields.io/badge/GitHub-Kripikindomart-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<div align="center">
+
+### ⚡ Build • Automate • Improve
+
+**Thanks for visiting my profile! 👋**
+
+</div>
