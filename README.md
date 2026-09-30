@@ -43,13 +43,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kripikindomart&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripikindomart&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages">
+<img src="https://img.shields.io/github/followers/Kripikindomart?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+<img src="https://img.shields.io/github/stars/Kripikindomart?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
+<img src="https://komarev.com/ghpvc/?username=Kripikindomart&style=for-the-badge&color=blue" alt="Profile Views">
 
 </div>
 
@@ -60,16 +60,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Kripikindomart&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kripikindomart&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity">
 
 </div>
 
@@ -110,18 +100,6 @@
 - 🐳 Docker Infrastructure
 - ☁️ Self-Hosted Applications
 - 📊 Data Management Systems
-
----
-
-## 🧑‍💻 Developer Profile
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kripikindomart&style=for-the-badge&color=blue" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/Kripikindomart?style=for-the-badge&logo=github" alt="GitHub Followers">
-<img src="https://img.shields.io/github/stars/Kripikindomart?style=for-the-badge&logo=github" alt="GitHub Stars">
-
-</div>
 
 ---
 
