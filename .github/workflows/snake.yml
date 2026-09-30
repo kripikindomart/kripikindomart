@@ -1,10 +1,9 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-
-  workflow_dispatch:
 
 jobs:
   generate:
@@ -12,22 +11,20 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Generate Snake
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kripikindomart
-          github_token: ${{ secrets.PAT_TOKEN }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
+      - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
