@@ -1,38 +1,108 @@
-# 👋 Hi, I'm Muhammad Asrul Anwar
+# 👋 Hi, I'm Kripikindomart
 
-💻 Full Stack Developer | Web Developer | Technology Enthusiast
+### 💻 Full Stack Developer | Web Developer | Technology Enthusiast
 
-I build web applications and digital solutions using modern technologies.
+> Building applications, automations, and digital solutions.
 
-## 🚀 Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Docker+%7C+Node.js+%7C+MySQL;Building+Digital+Solutions;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-## 🛠️ What I Do
+## 🚀 About Me
 
-- 🌐 Web Application Development
-- 🎓 Academic Information Systems
-- 🤖 Automation & Integration
-- 🐳 Docker & Self-hosted Applications
-- 📊 Digital Transformation
+* 💻 Developing web-based applications
+* 🧩 Building information systems
+* ⚙️ Automation & API integration
+* 🐳 Docker & self-hosted applications
+* 🗄️ Database & backend development
+* 🤖 Exploring AI & automation
 
-## 📌 Featured Projects
+---
 
-| Project | Description | Tech |
-|---|---|---|
-| SIAKAD | Academic Information System | Laravel |
-| Tinkata Government | Government Digital Platform | PHP / JS |
-| WhatsApp Gateway | WhatsApp automation system | Node.js |
-| Docker Stack | Self-hosted application environment | Docker |
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,nodejs,mysql,postgresql,docker,git,github,linux,html,css,bootstrap" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kripikindomart&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripikindomart&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+## 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kripikindomart/kripikindomart/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kripikindomart&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💡 What I Build
+
+```text
+🌐 Web Applications
+🎓 Academic Information Systems
+🏛️ Government Digital Systems
+🤖 Automation & API Integration
+🐳 Docker Infrastructure
+📊 Management & Data Systems
+```
+
+---
+
+## 📈 1,167 Contributions in the Last Year
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kripikindomart&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+## ⚡ Current Focus
+
+```text
+Laravel       ████████████████████
+PHP           ████████████████████
+JavaScript    ███████████████░░░░░
+Docker        ███████████████░░░░░
+Node.js       █████████████░░░░░░░
+AI / Automation ███████████░░░░░░░░
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/kripikindomart">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
